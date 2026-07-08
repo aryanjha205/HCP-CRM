@@ -9,7 +9,7 @@ An AI-First Customer Relationship Management (CRM) Healthcare Professional (HCP)
 ### Live CRM Walkthrough
 Demonstrates logging doctor visits manually via the form, viewing it instantly on the dashboard, and executing all 5 AI Chat tools (logging, editing, history summary, material recommendations, and next-step recommendations) with the keyless free LLM engine.
 
-![AI HCP CRM Walkthrough Demo](media/walkthrough.webp)
+![AI HCP CRM Walkthrough Demo](media/walkthrough.mp4)
 
 ### Dashboard Screenshot
 ![HCP CRM Dashboard](media/dashboard.png)
